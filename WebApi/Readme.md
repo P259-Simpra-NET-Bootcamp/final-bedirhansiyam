@@ -1,5 +1,5 @@
 ## Bootcamp Final Assignment Project
-This API documentation has been prepared for the final assignment within the scope of Patika.dev / Simpra .Net Bootcamp.
+This WebApi project has been developed for the final assignment within the scope of Patika.dev / Simpra .Net Bootcamp.
 
 </br>
 
